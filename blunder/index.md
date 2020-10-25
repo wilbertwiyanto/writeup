@@ -1,5 +1,13 @@
-### BLUNDER
+<html>
+<head>
+<title> Blunder | Writeup
+</title>
+</head>
+<body>
 
+# **BLUNDER WRITEUP**
+
+# **ENUMERATION**
 
 nmap untuk mencari open ports
 
@@ -55,7 +63,7 @@ membuat file htaccess.png lalu gunakan burp untuk merubah nama file menjadi .hta
 
 akses file php-reverse-shell.php pada directory /bl-content/tmp/php-reverse-shell.php
 
-# USER FLAG
+# **USER FLAG**
 
 pada directory /var/www terdapat versi bludit yang lain yaitu versi 3.10.0a
 
@@ -67,7 +75,7 @@ switch user hugo denga ncommand su hugo
 
 ambil user.txt
 
-# ROOT FLAG
+# **ROOT FLAG**
 
 gunakan sudo -l
 
@@ -76,3 +84,5 @@ user bisa melakukan (ALL, !root) /bin/bash [https://www.exploit-db.com/exploits/
 gunakan command sudo -u#-1 /bin/bash
 
 ambil root.txt
+</body>
+</html>
