@@ -5,9 +5,10 @@
 </head>
 <body>
 <div markdown="1">
+
 # **BLUNDER WRITEUP**
 
-# **ENUMERATION**
+## **ENUMERATION**
 
 nmap untuk mencari open ports
 
@@ -63,7 +64,7 @@ membuat file htaccess.png lalu gunakan burp untuk merubah nama file menjadi .hta
 
 akses file php-reverse-shell.php pada directory /bl-content/tmp/php-reverse-shell.php
 
-# **USER FLAG**
+## **USER FLAG**
 
 pada directory /var/www terdapat versi bludit yang lain yaitu versi 3.10.0a
 
@@ -75,7 +76,7 @@ switch user hugo denga ncommand su hugo
 
 ambil user.txt
 
-# **ROOT FLAG**
+## **ROOT FLAG**
 
 gunakan sudo -l
 
