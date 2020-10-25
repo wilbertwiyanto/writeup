@@ -8,6 +8,8 @@
 
 # **BLUNDER WRITEUP**
 
+
+
 ## **ENUMERATION**
 
 nmap untuk mencari open ports
