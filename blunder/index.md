@@ -1,5 +1,5 @@
 1. nmap untuk mencari open ports
-
+![](/assets/message/messageImage_1603477004000.jpg)
 2. lakukan gobuster untuk mencari directory
 
 3. ketemu directory /admin dan ada login page
