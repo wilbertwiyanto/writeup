@@ -1,7 +1,5 @@
 <html>
 <head>
-<title> Blunder | Writeup
-</title>
 </head>
 <body>
 <div markdown="1">
