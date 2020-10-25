@@ -6,6 +6,7 @@
 
 # **BLUNDER WRITEUP**
 
+a
 ![](/assets/blunder.png)
 
 ## **ENUMERATION**
