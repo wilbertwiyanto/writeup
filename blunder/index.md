@@ -1,3 +1,6 @@
+BLUNDER
+
+
 1. nmap untuk mencari open ports
 
 ![](/assets/messageImage_1603477004000.jpg)
